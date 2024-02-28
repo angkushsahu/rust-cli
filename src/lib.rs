@@ -56,7 +56,7 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-// testing library
+// testing
 #[cfg(test)]
 mod tests {
     use super::*;
